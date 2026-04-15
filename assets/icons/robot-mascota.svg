@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+
+  <!-- cuerpo -->
+  <rect x="20" y="30" width="80" height="60" rx="20" fill="#4B7DFB"></rect>
+
+  <!-- ojos -->
+  <circle class="eye" cx="45" cy="60" r="6" fill="#fff"></circle>
+  <circle class="eye" cx="75" cy="60" r="6" fill="#fff"></circle>
+
+  <!-- boca -->
+  <rect x="45" y="75" width="30" height="6" rx="3" fill="#fff"></rect>
+
+  <!-- antena -->
+  <line x1="60" y1="30" x2="60" y2="15" stroke="#fff" stroke-width="4"></line>
+  <circle class="antenna" cx="60" cy="10" r="5" fill="#fff"></circle>
+
+  <!-- brazos -->
+  <line x1="20" y1="60" x2="10" y2="60" stroke="#fff" stroke-width="4"></line>
+  <line x1="100" y1="60" x2="110" y2="60" stroke="#fff" stroke-width="4"></line>
+
+</svg>
